@@ -2,7 +2,7 @@ pr: none
 trigger: none
 
 variables:
-- group: mlops-1
+- group: mlops-workshop-1
 
 stages:
 - stage: 'Dev'
